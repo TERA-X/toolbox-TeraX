@@ -10,6 +10,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/command/master/"],
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/command/master/"],
     "disableAutoUpdate": false
 }

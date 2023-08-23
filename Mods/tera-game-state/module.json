@@ -4,5 +4,5 @@
     "author": "Caali/ KYGAS",
     "description": "Tracks the game's current state and provides a high-level API for developers to base their mods on.",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-game-state/master/"]
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/tera-game-state/master/"]
 }

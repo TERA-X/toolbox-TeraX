@@ -57,7 +57,7 @@ function Migration() {
 }
 
 // Installed mod management
-const AvailableModuleListUrl = "https://raw.githubusercontent.com/kygas/tera-mods/master/modulelist.json";
+const AvailableModuleListUrl = "https://raw.githubusercontent.com/X0RPR0/tera-mods/master/modulelist.json";
 const { listModuleInfos, installModule, uninstallModule, toggleAutoUpdate, toggleLoad } = require("tera-mod-management");
 
 let CachedAvailableModuleList = null;

@@ -6,7 +6,7 @@ const path = require('path');
 const EventEmitter = require('events');
 
 // Constants
-const AutoUpdateServers = ['https://raw.githubusercontent.com/KYGAS/toolbox-valkyteq/main/'];
+const AutoUpdateServers = ['https://raw.githubusercontent.com/X0RPR0/toolbox-TeraX/main/'];
 
 // Implementation
 function forcedirSync(dir) {
